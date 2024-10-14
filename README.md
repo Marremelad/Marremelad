@@ -5,3 +5,5 @@
 </br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marremelad&theme=tokyonight" alt="mystreak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marremelad&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
