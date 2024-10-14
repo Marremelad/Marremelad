@@ -15,7 +15,7 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/mauricio-corte-343a6a22a/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="vertical-align: middle; margin-bottom: 5px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="vertical-align: middle; margin-bottom: 15px;" />
   </a>
   <br /> <!-- Line break for stacking -->
   <a href="mailto:your-email@example.com">
