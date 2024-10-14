@@ -1,8 +1,6 @@
 ## Hi there, My name is Mauricio 👋
 
 
-**Marremelad/Marremelad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div align="center">
         <img alt="Visitor Stats" 
             src="https://widgetbite.com/stats/<Marremelad>"/>  
