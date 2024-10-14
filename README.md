@@ -18,3 +18,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mauricio-corte-343a6a22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Marremelad" height="30" width="40" /></a>
 </p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mauricio-corte-343a6a22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Marremelad/Marremelad/main/images/1fb17d5e441f092dab10b355c3522b70.png" alt="Marremelad" height="30" width="40" /></a>
+</p>
