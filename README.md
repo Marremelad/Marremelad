@@ -7,7 +7,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marremelad&theme=tokyonight" alt="mystreak"/>
 
 <h2 align="center">Tech of choice 💻</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marremelad&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
+<img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marremelad&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 
 ##
 <h2 align="center">Connect with me</h2>
