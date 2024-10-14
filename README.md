@@ -18,6 +18,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img align="center" src="https://raw.githubusercontent.com/Marremelad/Marremelad/main/images/1fb17d5e441f092dab10b355c3522b70.png" alt="Email" height="30" width="40" style="vertical-align: middle;" />
+    <img align="center" src="https://raw.githubusercontent.com/Marremelad/Marremelad/main/images/1fb17d5e441f092dab10b355c3522b70.png" alt="Email" height="30" width="40" style="vertical-align: middle; margin-top: 5px;" />
   </a>
 </p>
+
