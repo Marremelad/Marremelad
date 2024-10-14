@@ -18,7 +18,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="vertical-align: middle; margin-bottom: 15px;" />
   </a>
   <br /> <!-- Line break for stacking -->
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:Pog@example.com">
     <img src="https://raw.githubusercontent.com/Marremelad/Marremelad/main/images/1fb17d5e441f092dab10b355c3522b70.png" alt="Email" height="30" width="40" style="vertical-align: middle;" />
   </a>
 </p>
