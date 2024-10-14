@@ -4,7 +4,7 @@
 <p align="left">My name is Mauricio and I'm a .NET student at Chas Academy <img src="https://user-images.githubusercontent.com/113366808/224347548-c069f9ed-aee0-4f73-bf95-a4784774941e.svg" width ="20" height="20" alt="Chas Academy logo"></p> 
 </br>
 
-## Statistics and tech of choice
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marremelad&theme=tokyonight" alt="mystreak"/>
 
+## Tech of choice
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marremelad&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
