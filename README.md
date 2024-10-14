@@ -6,7 +6,7 @@
             src="https://widgetbite.com/stats/<Marremelad>"/>  
     </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://myreadme.vercel.app/api/embed/Marremelad?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 Here are some ideas to get you started:
 
