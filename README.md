@@ -8,3 +8,9 @@
 
 ## Tech of choice 💻
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marremelad&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
+
+##
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/mauricio-corte-343a6a22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adozs" height="30" width="40" /></a>
+</p>
