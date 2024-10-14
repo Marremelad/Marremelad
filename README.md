@@ -1,4 +1,4 @@
-## Hi there, My name is Mauricio 👋
+## Hi there, My name is Mauricio and I am a student at Chas Academy! 👋
 
 
 <div align="center">
