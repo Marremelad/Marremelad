@@ -6,7 +6,6 @@
             src="https://widgetbite.com/stats/<Marremelad>"/>  
     </div>
 
-<img src="https://myreadme.vercel.app/api/embed/Marremelad?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 [![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marremelad&hide=stars&show=contribs,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula)](https://github.com/Danilo-Acosta5389/github-readme-stats) 
 
