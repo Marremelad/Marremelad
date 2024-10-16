@@ -13,8 +13,9 @@
 </div>
 
 <div align="right">
-  <img src="https://github.com/Marremelad/AssetsAndImages/raw/main/net.png" alt=".NET" style="vertical-align: middle; margin-top: -20px;"/>
+  <img src="https://github.com/Marremelad/AssetsAndImages/raw/main/net.png" alt=".NET" style="vertical-align: middle; margin-top: -170px;"/>
 </div>
+
 
 ##
 <h3 align="center">Connect with me</h3>
