@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marremelad&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 </div>
 
-<div style="float: right;">
+<div align="right">
   <img src="https://github.com/Marremelad/AssetsAndImages/raw/main/net.png" alt=".NET" style="vertical-align: top;"/>
 </div>
 
