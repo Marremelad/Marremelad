@@ -8,12 +8,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marremelad&theme=tokyonight" alt="mystreak"/> 
 
 ## Tech of choice 💻
-
-<div align="right">
-  <img src="https://github.com/Marremelad/AssetsAndImages/raw/main/net.png" alt=".NET" style="vertical-align: middle; margin-top: -170px;"/>
-</div>
-
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marremelad&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 </div>
