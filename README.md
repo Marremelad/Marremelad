@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Marremelad/AssetsAndImages/raw/main/net.png" alt=".NET" />
+  <img src="https://github.com/Marremelad/AssetsAndImages/raw/main/net.png" alt=".NET" style="vertical-align: middle;"/>
 </div>
 
 ##
