@@ -12,9 +12,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marremelad&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 </div>
 
-<div align="right">
+<div style="float: right;">
   <img src="https://github.com/Marremelad/AssetsAndImages/raw/main/net.png" alt=".NET" style="vertical-align: middle;"/>
 </div>
+
 
 ##
 <h3 align="center">Connect with me</h3>
