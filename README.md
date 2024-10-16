@@ -8,12 +8,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marremelad&theme=tokyonight" alt="mystreak"/> 
 
 ## Tech of choice 💻
-
-<div align="right">
-  <img src="https://github.com/Marremelad/AssetsAndImages/raw/main/net.png" alt=".NET" style="vertical-align: middle; margin-top: -170px;"/>
-</div>
-
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marremelad&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 </div>
@@ -29,5 +23,3 @@
     <img src="https://raw.githubusercontent.com/Marremelad/Marremelad/main/images/1fb17d5e441f092dab10b355c3522b70.png" alt="Email" height="30" width="40" style="vertical-align: middle;" />
   </a>
 </p>
-
-#https://github.com/Marremelad/AssetsAndImages/raw/main/net.png
