@@ -10,7 +10,7 @@
 ## Tech of choice 💻
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marremelad&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
-  <img src="https://github.com/Marremelad/AssetsAndImages/raw/main/net.png" alt=".NET" style="vertical-align: top;"/>
+  <img src="https://github.com/Marremelad/AssetsAndImages/raw/main/net.png" alt=".NET logo"/>
 </div>
 
 
