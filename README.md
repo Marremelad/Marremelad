@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello! 👋
 <a href= "https://chasacademy.se/program/fullstackutvecklare-net" target="blank">
 <img src="https://user-images.githubusercontent.com/113366808/224336356-c09c9402-9e83-44f3-a870-8bae1bf2d7d0.svg" width ="70" height="70" alt="Chas Academy logo" align="right">
 </a>
